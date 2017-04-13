@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DialogAlert</string>
+    <string name="show">警告对话框</string>
+    <string name="title">欢迎！</string>
+</resources>
